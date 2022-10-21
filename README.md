@@ -3,7 +3,7 @@
 # Demo
 Live demo: https://explore-space-game.herokuapp.com
 
-Tools: <br/>
+# Tools: <br/>
 :heavy_check_mark: Vanilla Javascript <br/>
 :heavy_check_mark: HTML <br/>
 :heavy_check_mark: CSS <br/>
